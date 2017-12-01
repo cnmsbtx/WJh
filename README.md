@@ -7,7 +7,7 @@
 <title>菜鸟教程(runoob.com)</title>
 </head>
 <body>
-
+<button>lw</button>
 <h1 onclick="this.innerHTML='Ooops!'">点击文本!</h1>
 
 </body>
